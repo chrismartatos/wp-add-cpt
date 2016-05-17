@@ -6,7 +6,7 @@ Template Name: CPT Template
 /*----------------------------------------------------------------------------------------------------
  * IMPORTANT: This is a template example that goes to the main directory of your theme. 
  * Create a page same as the slug value(plugin.php) and apply this template to show your cpt posts. 
- * Customize it as you like
+ * This is a quick example, customize it as you like according to your project.
  ----------------------------------------------------------------------------------------------------*/ 
  
  /**
